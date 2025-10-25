@@ -1,0 +1,136 @@
+1. Time Complexity And Space Complexity
+   1.1 Big O Notation
+   1.2 Time Complexity Examples
+   1.3 Space Complexity Examples
+   1.4 Time and Space Complexity Analysis
+2. Recursion
+3. Searching Techniques
+   3.1 Linear Search 
+   3.2 Binary Search
+   3.3 Interpolation Search
+   3.4 Exponential Search
+   3.5 Ternary Search
+   3.6 Fibonacci Search
+4. Sorting Techniques
+   4.1 Bubble Sort
+   4.2 Selection Sort
+   4.3 Insertion Sort
+   4.4 Merge Sort
+   4.5 Quick Sort
+   4.6 Heap Sort
+   4.7 Counting Sort
+   4.8 Radix Sort
+   4.9 Bucket Sort
+5. Hashing
+   5.1 Hash Functions
+   5.2 Collision Resolution Techniques
+   5.3 Applications of Hashing
+6. Linked Lists
+   6.1 Singly Linked List
+   6.2 Doubly Linked List
+   6.3 Circular Linked List
+   6.4 Applications of Linked Lists
+7. Stacks
+   7.1 Stack Operations
+   7.2 Applications of Stacks
+8. Queues
+   8.1 Queue Operations
+   8.2 Circular Queue
+   8.3 Priority Queue
+   8.4 Deque
+   8.5 Applications of Queues
+9. Trees
+   9.1 Binary Trees
+   9.2 Binary Search Trees
+   9.3 AVL Trees
+   9.4 Red-Black Trees
+   9.5 B-Trees
+   9.6 Segment Trees
+   9.7 Trie
+   9.8 Applications of Trees
+10. Graphs
+    10.1 Graph Representations
+    10.2 Graph Traversal Algorithms
+       10.2.1 Depth-First Search (DFS)
+       10.2.2 Breadth-First Search (BFS)
+    10.3 Shortest Path Algorithms
+       10.3.1 Dijkstra's Algorithm
+       10.3.2 Bellman-Ford Algorithm
+       10.3.3 Floyd-Warshall Algorithm
+    10.4 Minimum Spanning Tree Algorithms
+       10.4.1 Prim's Algorithm
+       10.4.2 Kruskal's Algorithm
+    10.5 Topological Sorting
+    10.6 Graph Applications
+11. Dynamic Programming
+    11.1 Introduction to Dynamic Programming
+    11.2 Memoization vs Tabulation
+    11.3 Common Dynamic Programming Problems
+       11.3.1 Fibonacci Sequence
+       11.3.2 Longest Common Subsequence
+       11.3.3 Knapsack Problem
+       11.3.4 Coin Change Problem
+       11.3.5 Matrix Chain Multiplication
+       11.3.6 Edit Distance
+       11.3.7 Longest Increasing Subsequence
+       11.3.8 Subset Sum Problem
+12. Greedy Algorithms
+    12.1 Introduction to Greedy Algorithms
+    12.2 Characteristics of Greedy Algorithms
+    12.3 Common Greedy Problems
+       12.3.1 Activity Selection Problem
+       12.3.2 Huffman Coding
+       12.3.3 Minimum Spanning Tree
+       12.3.4 Fractional Knapsack Problem
+       12.3.5 Job Sequencing Problem
+       12.3.6 Coin Change Problem
+       12.3.7 Graph Coloring
+       12.3.8 Minimum Cost Spanning Tree
+13. Backtracking
+    13.1 Introduction to Backtracking
+    13.2 Backtracking Techniques
+    13.3 Common Backtracking Problems
+       13.3.1 N-Queens Problem
+       13.3.2 Sudoku Solver
+       13.3.3 Rat in a Maze
+       13.3.4 Subset Sum Problem
+       13.3.5 Permutations and Combinations
+       13.3.6 Graph Coloring
+       13.3.7 Hamiltonian Path and Cycle
+       13.3.8 Knight's Tour Problem
+14. Bit Manipulation
+    14.1 Introduction to Bit Manipulation
+    14.2 Bitwise Operations
+    14.3 Common Bit Manipulation Problems
+       14.3.1 Counting Set Bits
+       14.3.2 Power of Two
+       14.3.3 Swap Two Numbers
+       14.3.4 Find the Only Non-Repeating Element
+       14.3.5 Bitwise AND, OR, XOR
+       14.3.6 Bit Manipulation Tricks
+       14.3.7 Gray Code
+       14.3.8 Subsets Using Bit Manipulation
+15. Mathematical Algorithms
+    15.1 Prime Numbers
+       15.1.1 Sieve of Eratosthenes
+       15.1.2 Prime Factorization
+       15.1.3 GCD and LCM
+    15.2 Combinatorial Algorithms
+       15.2.1 Permutations and Combinations
+       15.2.2 Binomial Coefficients
+       15.2.3 Catalan Numbers
+    15.3 Number Theory  
+       15.3.1 Modular Arithmetic
+       15.3.2 Fermat's Little Theorem
+       15.3.3 Chinese Remainder Theorem
+       15.3.4 Extended Euclidean Algorithm
+    15.4 Mathematical Puzzles
+       15.4.1 Josephus Problem
+       15.4.2 Tower of Hanoi
+       15.4.3 Magic Squares
+       15.4.4 Fibonacci Sequence
+       15.4.5 Lucas Sequence
+         15.4.6 Catalan's Triangle
+         15.4.7 Pell's Equation
+         15.4.8 Collatz Conjecture
+
