@@ -2,6 +2,8 @@ def binary_search(arr, target):
     """
         TC - log(N)
         SC - O(1)
+
+        condition: array should be sorted in ascending order
     """
     low, high = 0, len(arr)-1
 
